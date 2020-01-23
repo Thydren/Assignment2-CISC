@@ -13,7 +13,7 @@ console.log ("Hello " + "World!");
 console.log("Hello\n" + "World!");
 // 4. Write code to output the result of the arithmetic expression to the console:
 // 3 * 8 + 2;
-
+console.log(3 * 8 + 2);
 // 5. Write code to output the result of the comparison:
 // 5 is less than 10.
 
